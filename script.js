@@ -4,7 +4,7 @@ const animeList = [
 name:"Solo Leveling",
 rating:"9.8",
 genre:"Action",
-image:"images/IMG_20220402_093151.jpg"
+image:"IMG_20220402_093151.jpg"
 },
 
 {
@@ -111,7 +111,7 @@ const banners=[
 
 {
 title:"Solo Leveling",
-image:"images/IMG_20220402_093151.jpg"
+image:"IMG_20220402_093151.jpg"
 },
 
 {
